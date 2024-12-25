@@ -48,3 +48,24 @@ Overall, this application provides a streamlined interface for data cleaning, ex
    Open your terminal or command prompt and run the following command:
    ```bash
    git clone https://github.com/mohamed202100/Streamlit_App.git
+
+## 
+2. **Navigate to the project directory**:
+   Change into the directory of the cloned repository
+   ```bash
+   cd Streamlit_App
+
+##
+3. **Install the required libraries**:
+   Use the following command to install all the necessary libraries specified in the requirements.txt file
+   ```bash
+   pip install -r requirements.txt
+
+## 
+4. **Run the application**:
+   Start the Streamlit application with this command:
+   ```bash
+   streamlit run f.py
+
+YouTube Video
+Watch the tutorial on how to use the application: []
