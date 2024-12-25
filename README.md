@@ -44,4 +44,7 @@ Overall, this application provides a streamlined interface for data cleaning, ex
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository**:
+   Open your terminal or command prompt and run the following command:
+   ```bash
+   git clone https://github.com/mohamed202100/Streamlit_App.git
